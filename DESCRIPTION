@@ -1,0 +1,14 @@
+Package: gammadist
+Type: Package
+Title: A Toolbox for the Gamma Distribution
+Version: 0.1.1
+Author: Piao Chen, Xiujie Zhao, and Kilian Buis
+Maintainer: Piao Chen <p.chen-6@tudelft.nl>
+Description: This package is developed for the practical use of the gamma distribution. The current version supports the following three imporant tasks:
+   (1) generate the gamma distributed random variables.
+   (2) estimate the parameters of the gamma distribution.
+   (3) construct the statistical limits based on the gamma distributed data, including the confidence limits, prediction limits and tolerance limits.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
